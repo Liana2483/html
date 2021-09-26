@@ -1,0 +1,129 @@
+body {
+background-color:WhiteSmoke;
+}
+h1 {
+	text-align:center;
+	color:SaddleBrown;
+	font-family:Charmonman, Tahoma;
+	font-size:300%;	
+	word-spacing: 30px;
+	line-height: 50px;
+}
+
+h2 {
+	text-align:center;
+	color:SaddleBrown;
+	font-family:Charmonman, Tahoma;
+	font-size:200%;	
+	letter-spacing:25px;
+	line-height: 0px
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+p {
+	text-align:center;
+	font-family:Atkinson Hyperlegible, Tahoma;
+	color:SaddleBrown;
+}
+
+input[type=text], select, textarea {
+  
+  width: 100%; 
+  margin:0 auto;
+  padding: 5px; 
+  border: 5px solid #ccc;
+  border-radius: 13px; 
+  box-sizing: border-box;
+  font-family:Atkinson Hyperlegible, Tahoma;
+  text-align:center;
+  resize: vertical 
+  
+}
+
+input[type=submit] {
+  background-color: saddlebrown;
+  width: 50%;
+  color: white;
+  text-align:center;
+  padding: 12px 20px;
+  border: none;
+ font-family:Atkinson Hyperlegible, Tahoma;
+ border-radius: 4px;
+  cursor: pointer;
+}
+
+input[type=submit]:hover {
+  text-align:center;
+  background-color: Sienna;
+}
+
+.container {
+  border-radius: 10px;
+  text-align: center;
+  width: 60%;
+  vertical-align: middle;
+  background-color: #f2f2f2;
+  font-family: Atkinson Hyperlegible, Tahoma;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.art {
+	text-align: center;
+	font-family: Atkinson Hyperlegible, Tahoma;
+	font-size:140%;
+}
+
+a:link  {
+	text-align: center;
+	font-family: Atkinson Hyperlegible, Tahoma;
+	color: saddlebrown;
+	text-decoration: none;
+	
+}
+
+a:hover  {
+	text-decoration: underline;
+	color:saddlebrown;
+	text-align: center;
+}
+
+.animals {
+	text-align: center;
+	font-family: Atkinson Hyperlegible, Tahoma;
+	font-size:140%;
+	line-height: 10px;
+	color:saddlebrown
+	
+	
+}
+
+.description {
+	font-size:16px;
+	line-height: 25px;
+	font-family: Atkinson Hyperlegible, Tahoma;
+	text-align: center;
+	color:saddlebrown
+	
+	
+	
+}
+
+.photography {
+	text-align: center;
+	font-size:140%;
+	
+}
+
+.back {
+	text-align: center;
+	font-family: Atkinson Hyperlegible, Tahoma;
+	
+}
+	
